@@ -6,7 +6,7 @@ const mysql = require('mysql2');
 const database = mysql.createConnection({
     host: "fdb34.awardspace.net",
     user: "4152083_projecte",
-    password: "RByW)6/W2#a]H!WZ",
+    password: "pGUbU7xl8@1OUx/4",
     database: "4152083_projecte",
     port: 3306
 });
